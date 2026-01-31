@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hw-26-goit/static/css/main.f855e6bc.css",
+    "main.js": "/hw-26-goit/static/js/main.d174b1f0.js",
+    "index.html": "/hw-26-goit/index.html",
+    "main.f855e6bc.css.map": "/hw-26-goit/static/css/main.f855e6bc.css.map",
+    "main.d174b1f0.js.map": "/hw-26-goit/static/js/main.d174b1f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d174b1f0.js"
+  ]
+}
