@@ -29,7 +29,7 @@ function MovieDetails() {
         <Link to="reviews">Reviews</Link>
       </nav>
 
-      {/* 👇 ТУТ РЕНДЕРЯТЬСЯ Cast / Reviews */}
+  
       <Outlet />
     </div>
   );
